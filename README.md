@@ -21,7 +21,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: (https://product-preview-card-component-weld-eta.vercel.app/)
+- Solution URL: (https://expenses-chart-six.vercel.app/)
 
 ## My process
 
